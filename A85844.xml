@@ -1,0 +1,805 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloody court, or, The fatall tribunall being a brief history and true narrative of the strange designs, wicked plots, and bloody conspiracies carryed on by the most sordid'st, vile, and usurping tyrants in these late years of oppressions, tyranny, martyrdome and persecutions ...</title>
+            <author>Gauden, John, 1605-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85844</idno>
+            <idno type="STC">Wing G343A</idno>
+            <idno type="STC">ESTC R225669</idno>
+            <idno type="EEBO-CITATION">42475461</idno>
+            <idno type="OCLC">ocm 42475461</idno>
+            <idno type="VID">151144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2246:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloody court, or, The fatall tribunall being a brief history and true narrative of the strange designs, wicked plots, and bloody conspiracies carryed on by the most sordid'st, vile, and usurping tyrants in these late years of oppressions, tyranny, martyrdome and persecutions ...</title>
+                  <author>Gauden, John, 1605-1662.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton; And published by a Rural Pen, for general satisfaction,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: The bloody court, or, The fatal tribunal.</note>
+                  <note>Attributed to John Gauden. Cf. Halkett &amp; Laing.</note>
+                  <note>Place and date of publication from Wing (2nd ed.)</note>
+                  <note>Imperfect: faded, stained, and with print show-through, and loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Last years.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151144:1" rendition="simple:additions"/>
+            <pb facs="tcp:151144:1"/>
+            <p>The Bloody Court; OR, The Fatall Tribunall:</p>
+            <p>BEING A brief Hiſtory, and true Narrative, of the ſtrange Deſigns, wicked Plots, and Bloody Conſpiracies, carryed on by the moſt ſordid'ſt, vile, and Uſurping Tyrants, in theſe late Years of Oppreſſions, Tyranny, Martyrdome, and Perſecutions: DISCOVERING,</p>
+            <p n="1">I. The Poyſonous Aſps, King-killing Baſilisks, weeping Hypocrites, and devouring Caterpillars, who in their Damnable Treaſons have far ſurpaſſed the <hi>Powder-Conſpiracy,</hi> ſecretly contriving, but openly acting the Murther of our late Gracious King <hi>Charles,</hi> the ruine of all the Royal Iſſue, the everthrow of all our Laws, the blowing up of all Parliaments, the ſubverting of the whole State of Government; and the ſetting up of a conſuſed <hi>Babel,</hi> watered with the blood of the <hi>KING</hi> and His People.</p>
+            <p n="2">II. An Exact Deſcription of theſe hard-hearted <hi>Belſhazzars,</hi> infamous <hi>Impoſtors, Luciferian Brats,</hi> wicked <hi>Schiſmaticks,</hi> cruel <hi>Hypocrites,</hi> deſperate <hi>Uſurpers,</hi> Damnable <hi>Blood-ſuckers,</hi> both of King and Nobles, who with Iron Hands, and Adamantine Hearts, would alſo have pull'd our preſent Lord and Soveraign out of the Arms and Embraces of His Loyal and Liege Sub<g ref="char:EOLhyphen"/>jects.</p>
+            <p n="3">III. The Bloody Tragedy of all Tragedies, againſt King, Lords, and Commons: the ſeveral Scenes, preſenting their moſt horrid Villanies; and the moſt barba<g ref="char:EOLhyphen"/>rous and Tyrannical Maſſacre that was ever heard of ſince the World began, conſ<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ted amongſt the Grandees of the Independent Sword-men, againſt the chief Royaliſts and Presbyterians, both Nobles, Gentry, and Citizens; with the manner how it was prevented; and the expoſing of theſe B<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ff-Grandees, and inſ<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing proud Officers, to their <hi>Needles, Hammers, Laſts, Slings, Carts,</hi> and <hi>Flails;</hi> and all true Subjects to enjoy their Rights.</p>
+            <p>
+               <hi>Printed for</hi> G. Horton; And publiſhed by a Rural Pen, for general ſatisfaction.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151144:2"/>
+            <pb n="3" facs="tcp:151144:2"/>
+            <head>The Bloody Court; OR, The Fatal Tribunal.</head>
+            <p>THe Crown of <hi>England</hi> was the ancienteſt Chriſtian Crown in the World and that which had thoſe two famous Pil<g ref="char:EOLhyphen"/>lars, Religion and Law, the pureſt and beſt in the world to under-prop it, which made it ſo Renowned: But our late Vſurping Tyrant, and his King-killing <hi>Baſilisks,</hi> holding a Con<g ref="char:EOLhyphen"/>fedaracy with the <hi>Popiſh</hi> Faction, endeavoured a ſupplanting of the Magiſtracy and Miniſtry, the Laws of the Land; and the Religion of the Church of <hi>England,</hi> had not the Honeſt Royaliſt, and Sober-min<g ref="char:EOLhyphen"/>ded Presbyter proved a ſtrong Defence and Fortreſs againſt that Blood-ſucking and Ieſuitical Facti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, who lay ſo occultly at the Helm of Government, and pretended (ſo cunningly) to act all for the Pro<g ref="char:EOLhyphen"/>teſtant Religion: yet under the Vizard of Hypocriſie and Rebellion, they pretend a Reformation<g ref="char:punc">▪</g> but through a Sea of innocent Blood, as we ſhall plainly deſcribe in the following Hiſtorical diſc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſe, with is their ſetting up a <hi>High Court of In<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtice,</hi> and a pretended Council of State, to be two during High-Courts: The one, for the ordering the great affairs of the Kingdom; the other to judge and determine mat<g ref="char:EOLhyphen"/>ters Criminal. Here old <hi>England</hi> became viſibly in its Government a new <hi>Spain:</hi> And it's worthy of obſervation to note, That <hi>Corne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Joyce,</hi> having with a party of ſouldiers (by Order from <hi>Cromwel</hi>) ſei<g ref="char:EOLhyphen"/>zed on the Kings perſon at <hi>Newport</hi> in the Iſle of <hi>Wight,</hi> by breaking open the door in the night when the King was in Bed, and taking him thence, and bringing him over the water to <hi>Hurſt</hi> Caſtle, Colonel <hi>Har<g ref="char:EOLhyphen"/>riſon</hi> was by <hi>Cromwel</hi> ſent with a ſtrong party of horſe to guard the King, from thence to <hi>Windſor.</hi> And immediately the<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> their bloo<g ref="char:EOLhyphen"/>dy Court was erected: and the Trial of Our gracious Soveraign pro<g ref="char:EOLhyphen"/>claimed: which terrible Eccho, reſounded with ſo much horrour and deteſtation<g ref="char:punc">▪</g> in the ears of all Loyal hearts that they abhorred the very thoughts of ſo monſtrous and barbarous an Act. And notwithſtanding,
+<pb n="4" facs="tcp:151144:3"/>all <hi>Remoras</hi> being removed (wh<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> right under the proceeding of the Popiſh F<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> in the <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>tting in <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that ever was committed upon the face of the Earth, ſince the <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ring of our bleſſed Lord and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) to work they goe, having the King in their clutches again he being the onely Proteſtant King in the World; this good King had neither Wife nor Children admitted to come near him, nor Friend, nor Chaplain, nor Servant of his own, wherein he could take the leaſt comfort, either in diſcourſe, or in behol<g ref="char:EOLhyphen"/>ding their countenances: He had no body to ſpeak his mind unto, no body to ſympathize with him, or ſo much as to beſtow a ſight upon him, in his ſolitary and diſconſolate condition, but like another <hi>David,</hi> when his Wife and Children were gone, and he had no Houſe to put his head in; Then did thoſe about him ſpeak it openly, <hi>That they would put Him to Death, and that not in a paſſion, but ſoberly, as if it were a pious meritorious work, to kill the onely pious Proteſtant King in the World.</hi>
+            </p>
+            <p>The good King through his great ſufferings and unheard of afflictions both of body and mind, wherewith God was pleaſed to exerciſe him, became a pattern of patience, and will be ſo to all poſterity; For un<g ref="char:EOLhyphen"/>der all thoſe reproaches which he heard with his Ears, and read with his Eyes, againſt his Crown, Dignity, Perſon, Name, and Poſterity; notwithſtanding the violence offered to him in the midſt of the Night, in breaking into his Chamber, and taking him out of his Bed, carrying him partly by Land and partly by Sea to <hi>Hurſt</hi> Caſtle, from thence to <hi>Windſor,</hi> from <hi>Windſor</hi> to <hi>St. James;</hi> in all which he was not heard ſo much as to ſpeak evil of his Adverſaries, or to uſe a bitter word, or demean himſelf impatiently; but as a Lamb leaving to the ſlaughter, ſo meek was he in thoſe mercileſs Butchers hand. At St. <hi>James</hi> he was kept until the Scaffold were erected in <hi>Weſtminſter-hall,</hi> where it was reported that not onely the Officers caſt foul reproaches of Ty<g ref="char:EOLhyphen"/>ranny and Murder into his face, dayly and hourly, but oft times the Common-ſouldiers by blowing of Tobacco (which he could not indure) by beating of Drums at unſeaſonable hours cloſe by him, did extreamly abuſe him; beſides there moſt uncivil words to his very face, yet was he patient under all, being abuſed and reviled, he reviled not again. At laſt Colonel <hi>Tomlinſon</hi> was the Kings Goaler, whoſe high commenda<g ref="char:EOLhyphen"/>tions above all other men in the Army, was this; <hi>That he dealt ci<g ref="char:EOLhyphen"/>vily with the King.</hi>
+            </p>
+            <p>On <hi>January</hi> the <hi>20th. 1648.</hi> The pretended High Court of Iuſtice ſate, a certain man called <hi>Bradſhaw,</hi> a Counſellor at Law, who being
+<pb n="5" facs="tcp:151144:3"/>a man of a fluent Tongue, and bold, and it ſeems alwayes a bitter man againſt the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, was found out, and by promiſes of great prefer<g ref="char:EOLhyphen"/>ment and of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>matteas, was eaſily perſwaded to be the man to act the part of a Iudge, or rather of a God, and take upon him to Iudge and Condemn the Proteſtant King: This Fellow they made a Searlet Ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on for him, that he might look like ſome body above his Fellows; they gave him alſo a ſtrange name, <hi>they Dy'd him in Red,</hi> and dipped him by the name of my <hi>Lord Preſident!</hi> yet he had his name before he had his Red coat, for it ſeems they were in ſuch ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to diſpatch this pi<g ref="char:EOLhyphen"/>ons king, who ſtood in the way to hinder their deſignes, that the bu<g ref="char:EOLhyphen"/>ſineſs was come to the laſt day, ere the Taylor, as I take it, had done that garment, which made him the Scarlet coloured Beaſt (he was full of Blaſphemy before) this Blaſphemous Beaſt was made the Iudge, and one <hi>Cook,</hi> a Fellow that had formerly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed out of the Kingdome, whether his knavery, or Poverty, or both drove him, I cannot tell, but one or both I am ſure: This Fellow (as I am in<g ref="char:EOLhyphen"/>formed by a Gentleman of worth) was forced beyond Sea to beg for his Food; being an <hi>Engliſh-man,</hi> and having <hi>Latine</hi> enough to beg his living by, he reſorted to the Colledges of <hi>Engliſh Jeſuites,</hi> where like <hi>Perfius</hi>'s Parot, his Belly taught his Tongue his Fluencie. I menti<g ref="char:EOLhyphen"/>on this onely, what intreſt the <hi>Jeſuites</hi> had in this fellow by pre in<g ref="char:EOLhyphen"/>gagements: This Fellow, when he asked for Bread, they gave him <hi>Scorpious</hi> doubtleſs, which made the <hi>Popiſh</hi> Faction chuſe him above all others, to be a Solicitor General to mannage a Charge of Treaſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> againſt a Proteſtant King in his own Dominions: Be conſident, a true <hi>Proteſtant</hi> dares not be ſo baſe a Traytor, nor any, but an Apo<g ref="char:EOLhyphen"/>ſtate <hi>Engliſh-man,</hi> be ſo baſe a ſcandal to his Nation, but they were hall fellow well met at this Court; here might a man have beheld the iuice of that Toad <hi>Mariana,</hi> ſwelling up each <g ref="char:V">Ʋ</g>illain in the Court to ſpet Venom in the ſootieſs Face of his Royal Majeſty.</p>
+            <p>My intention in this ſhort Diſcourſe is not to eatch Womens Affe<g ref="char:EOLhyphen"/>ctions, but to inform mans Iudgements, otherwiſe it were very eaſie, I think to make the ſenieſt heart to ſpring a floud of Tears, or ſplit in ſhivers, to read this Tragedy.</p>
+            <p>Turns Natures order upſide down, transform how you can to make a prodigy, it cannot he ſo horrid, or ſo diſmal a ſpectacle, as here I could not preſent the Reader.</p>
+            <p>Could you ſee a company of ugly filthy Goal-birds, with their Fer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors on, riſe up, lay hands upon the innocent Iudge: and clap their Fetters on his Leggs, place him at their Barr, call him the Male<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or,
+<pb n="6" facs="tcp:151144:4"/>and paſs the Sentence of Death upon him? Could you ſée this Iudge wich patience ſubmit to the ugly and unjuſt Sentence of thefs Bloody Rogues, and meekly ſuffer himſelf to be led to the place of Ex<g ref="char:EOLhyphen"/>ecution, and there have his innocent Head ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bered from his Shoulders? Yet there is ten times a more horrid ſight to be ſeen in this, then that can be: But I muſt paſs it over, leaſt when I get into it, I know not how to get out, onely take theſe ſew touches, which is well wor<g ref="char:EOLhyphen"/>thy of obſervation.</p>
+            <p>There was never ſo much Majeſty and meekneſs ſeen together in a<g ref="char:EOLhyphen"/>ny man that was but a meer man, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d was made that we can r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d or ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of, as was in this Ki<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; this cauſe much the more, by how much be i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed his Enemies reproaches, which were mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bit<g ref="char:EOLhyphen"/>ter and cruel: He had ſo much Majeſty at his firſt appearing at the Court before them, that he made his Iudge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tremble at his apo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, and ſo much méekneſs in his replyes to their reproaches, that it then thawed the frozen Bawels of thoſe rigid Clowns his Iudges, to a kind of inward re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nctancy; ask ſome of their Conſciences whether this is not true? they do confeſs it.</p>
+            <p>It ſhould ſéem ſome of them had been enquiring of <hi>Lilly</hi> the Sorcerer whither they ſhould take away his life, to whom he rep<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed. <hi>That if the Head of his Staff fell off, His Head would fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l off alſo:</hi> And the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry firſt day the King was brought before them, they h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Bemi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ched the Head of his ſtaff to fall off, which made them that were his Iudges, con<g ref="char:EOLhyphen"/>fident of ſucceſs in their Treaſon.</p>
+            <p>They drew a formal Charge againſt the King, wherein they charged him as a Tyrant, a Traytor, a Murderer, and a Publick Enemy to the Commonwealth: After the Charge was read, <hi>Bradſhaw</hi> deſired him that he would anſwer to his Charge.</p>
+            <p>The King with an amiable grave countenance beholding his Ene<g ref="char:EOLhyphen"/>mies, and joyning with it ſuch méek language<g ref="char:punc">▪</g> ſo full of déep and ſolid Reaſon, made his Enemies admire and applaud him, and his friends to wéep bitterly for him. The King would not (becauſe in Conſcience he could not) acknowledge their Authority; if he had, he had betray<g ref="char:EOLhyphen"/>ed the Liberties of his People; For if the King ſhould have granted (which was the onely thing they deſired) the legality of their Court; what Subject durſt have denied it? Therefore the King ſaid (and that truly) he ſtood for his Peoples &amp; Liberties, and the Peace of his Countrey, not allowing to have his Subjects cut off illegally.</p>
+            <p>It was admirable to ſée this Heroick Prince bear up indauntedly under all thoſo diſcouragements with which he was oppreſſed: He had
+<pb n="7" facs="tcp:151144:4"/>at his Right hand <hi>Cook</hi> calling for Iuſtice againſt the Traytor, the Murderer, the Tyrant, and the Pub<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick Euemy of the Kingdom; on the Right hand and on the left, at leaſt <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>enty Halbertéers; directly before him <hi>Bradſhaw</hi> ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ily and p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ptuoſly interrogating, revi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ling, and ſla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; behind <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, in <hi>Weſtminſter-hall,</hi> there were thouſands of Souldiers, who when the King turned his face, and looked down on them, they cryed out aloud (being taught before hand what to ſay) <hi>Juſtice, Juſtice, Juſtice.</hi>
+            </p>
+            <p>The King has brought Four rimes to his publick Tryal before theſe Bloody-minded-men, and ſtill benied their Authority, and proved it (as well he might) to be no legal Authority, whereupon the two next dayes they ſate not publickly, but privately in the Painted Chamber, where they were drawing up the Sentence to Murder the moſt ſpotleſs and innocent King.</p>
+            <p>I ſhould have mentioned in due place, that when the Commons had Voted the High Court of Iuſtice to ſit, they adjourned themſelves un<g ref="char:EOLhyphen"/>til their time of ſitting was out; and alſo how <hi>Cromwel</hi> a little before they took this Traytorous Enterprize in hand, called for a Faſt, to ſeek God in a buſineſs of ſo great concernment: This Faſt the Houſe kept, and the Souldiers at <hi>White-hall.</hi> At the ſame time did the <hi>Presbyte<g ref="char:EOLhyphen"/>rian</hi> Miniſters Faſt and Pray to prevent the miſcheifs that <hi>Cromwel</hi> was acting againſt the Church and State, the Magiſtracy, and the Mi<g ref="char:EOLhyphen"/>niſtry of <hi>England.</hi> After <hi>Cromwel</hi> had done Faſting, they preſently procée ded to the Tryal of the King; He and <hi>Ireton</hi> who had promiſed the King to eſtabliſh him, and they were the verieſt Knaves and. Vil<g ref="char:EOLhyphen"/>lains that ever-lived <hi>(They ſaid)</hi> if they did not perform every tittle that they promiſed him; theſe two errand Knaven and Villains (from their own mouths I judge them ſo were there in my ſight at the Court of Iuſtice to take away his life.</p>
+            <p>The Citizens of <hi>London</hi> and the <hi>Presbiterian</hi> Miniſters (for mond <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irred to ſave the Kings life) hearing that they were ſitting in the Painted Chamber, to draw up the Sentence of Death againſt the King, went boldly to General <hi>Fairfax</hi> and acquainted him with the ſin, and the dangerous conſequence of ſuch a horrid Murder: The General was fully convinced of it, and thereupon reſolved to call a General Rende<g ref="char:EOLhyphen"/>vous, and in the head of the Army to Declare againſt it; in the mean while he reſolved to pot to the High Court of Iuſtice, and ſtop all their Procéedings againſt the King.</p>
+            <p>Therefore he ſought for his Lieutenant General <hi>Cromwel,</hi> and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ding him, told him, he was much troubled and unſatisfied in his
+<pb n="8" facs="tcp:151144:5"/>mind about the proceedings of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich Court of Iuſtice againſt the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng and therefore came on purpoſe to ve<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to prec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed no fur<g ref="char:EOLhyphen"/>ther until the Houſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tiand ſate again: <hi>Crom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el</hi> told his General, That he alſo had the ſame trouble upon his ſpirit concerning the ſaving of the Kings life, they were now about his lift, he did confeſs, and what to do he knew not; onely <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid, he ſaw God anſweting their prayers, and going before their <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts: They had ſought God by Fa<g ref="char:EOLhyphen"/>ding, and thoſe of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> opinion had ſought God by Faſting, but God ſeemen to croſs their prayers, and they ſeemed (meaning the Presbiterians, to him to he in the dark, and deſerted. Let us there<g ref="char:EOLhyphen"/>fore (ſaid he) as we have ſeen the Providence of God, anſwering our prayers hitherto when we have ſought him ſo let us before we pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> any further in ſuch a weighty buſineſs, goe firſt to God in prayer, and wait; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s God may be ſeen in his Providence whileſt we are at prayer: the General was content to uſe all pious means: Hereup<g ref="char:EOLhyphen"/>on <hi>Cromwel</hi> ſtops the General from prohibiting the Court of Iuſtice, to proceed any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt the King until prayer was done in the mean time <hi>Cromwel</hi> privately ſends <hi>Ireton</hi> from <hi>White-hall</hi> to the Painted Ch<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> (to them there drawing up the Sentence) to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>niſh it, Seal it, and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>thwith diſperſe themſelves: whileſt <hi>Ireton</hi> goes, <hi>Cromwel</hi> keeps the General at prayer, and holds him there <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than upon his knows) almoſt two hours, till <hi>Ireton</hi> returned again and th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Cromwel</hi> (who prayed all that while) drew to a concluſion; <hi>Cromwel</hi> pretending now in all haſte to goe to the Court of Iuſtice, to ſtop procéedings againſt the King, was told by <hi>Ireton</hi> in the Generals hearing, that they had ſigned the Sentence againſt the King, and were then, even then newly broke up, and gone to their ſeveral homes, <hi>Cromwel</hi> pretended that this was immediate Providence, and an e<g ref="char:EOLhyphen"/>minent and gracious return of prayer and we ought not in any wiſe <hi>(ſaid he)</hi> but to <hi>admire</hi> and be ſilent, and wait upon the Providence of God, and ſée what the iſſue will be, for certain it muſt be glorious when it comes in the Arms of prayer. With ſuch and ſuch Saint <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ror<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſions, did by cozen the honeſt General, and made him return, fru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trate of his purpoſe, under pretence of uſing holy means to attain his own purpoſe.</p>
+            <p>
+               <hi>Cromwel</hi> by this Religions cheat haring put the buſineſs paſt recal<g ref="char:EOLhyphen"/>ling, pretended to thoſe Ladies and Gentlewomen that ſolicited him about the preſervation of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Kings life, That none was ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſirous to ſave the King as he, and therefore gave out, that the worſt they ſhould <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to him, was onely to bring him on the Scaffold to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> him, that
+<pb n="9" facs="tcp:151144:5"/>he might yeeld to thoſe things that wer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the good of the Kingdome<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Thus the Officers of the Army had leave to tell their Souldiers<g ref="char:punc">▪</g> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen thought no otherwiſe, as they ſolemaly vowed and ſwore after<g ref="char:EOLhyphen"/>wards.</p>
+            <p>But to the H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ory in order as it lieth: <hi>January</hi> the 27th. being <hi>Saturday,</hi> the H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h Court of Iuſtice (as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e called themſelves) met, and now <hi>Bradſhaw</hi> had got on his Red<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>coat, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he comes, at<g ref="char:EOLhyphen"/>tended with <hi>67</hi> of is party that ſate with him: a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>angſt whom were <hi>(thoſe two Sons of Perdition) Cromwel</hi> and <hi>Ireton.</hi> The King came from Sir <hi>Robert Cotton<hi>'s</hi>
+               </hi> houſe G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rded with Souldiers, and the Mace before him; when he came into the Court and turned himſelf a<g ref="char:EOLhyphen"/>bout, looks down the Hall, and every way about him; the Souldiers (who were now taught a new Leſſon) cryed out, <hi>Execution, Execu<g ref="char:EOLhyphen"/>tion,</hi> in the Kings Ears; to astoniſh him with the horrid thoughts of ſadden death.</p>
+            <p>The King perceiving by the Red Gown on <hi>Bradſhaws</hi> back, and by the cry of the Souldiers, that they intended that day to paſs their Sen<g ref="char:EOLhyphen"/>tence of Death on him, deſired to be heard; and the rather, becauſe it did conduce excéeding much to the good of the Kingdom, for the peace of it and the good of the People in it; which he proteſted he aime<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at more then his own particular good: Therefore he deſired to be heard (before they paſſed Sentence on him) before the Lords and Commons in the Pain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Chamber: there he had<g ref="char:punc">▪</g> ſomething to ſay to them which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y concerned both and that which would be worth the hearing it not, he gave them leave to be the Iudges, and lay the blame on him: However ſuch a delay <hi>(he ſaid)</hi> could not be prejudicial to them and this demand he thought, being it ſo much concerned the well-fare of the Kingdom, and the life of a King it might eaſily be granted him<g ref="char:punc">▪</g> but it they refuſed to grant him this reaſonable requeſt, he would proteſt a<g ref="char:EOLhyphen"/>gainſt them as men that were not reall for the Liberty of the Subject and Peace of the Kingdom.</p>
+            <p>The Court withdrew for half an hour<g ref="char:punc">▪</g> and then returned again with this Anſwer to the King. <hi>That they had been too long delayed by him already, and therefore notwithſtanding all the profers of Peace to the Kingdom, and Liberty to the Subject, they were reſolved to proceed to Sentence and Judgement.</hi>
+            </p>
+            <p>The King profeſſed it was the Kingdoms welfare and peace, more e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en his own life, that he look <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at chaſfly; and a delay of a day or two <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r night give Peace to the Kingdom whereas an haſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I idgement way bring that trouble to the Kingdom, which the Child anbo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay re<g ref="char:EOLhyphen"/>pent
+<pb n="10" facs="tcp:151144:6"/>it; And therefore <hi>(ſaid the King)</hi> I do again out of their duty <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to God and my Countrey, deſire that I may be heard by the Lords and Commons in the Painted Chamber; to this <hi>Bradſhaw the Preſident</hi> replyed, This was but that he had ſaid before, and therefore the Court deſired to hear what he would ſay before they did procéed to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>entence; this I ſay (ſaid the King) that if you will hear me, I do not doubt to give ſatisfaction to you, and to my People, and therefore <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e q<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re you (as you will ad<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er it at the Dreadful day of Iudg<g ref="char:EOLhyphen"/>ment) that you will conſid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r it once again.</p>
+            <p>The Lord onely knowes what th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King had to ſay to them, but it was doubt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſomething of great importance, and that which lay with<g ref="char:EOLhyphen"/>in his Breaſt, which he would f<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led before he died; but theſe unreaſonable any Bloody-mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded men, whoſe onely deſign was to drink his innocent Blood, would not hear him, but after they ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hed him, called him the greateſt of Tyrants, and uſed many Blaſphemens Speeched againſt him, cauſed a Bold Fellow to ſtand us and read a Sentence, which was to ſever the Royal Head of <hi>Charles Stewart,</hi> King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> from his Body: After it was read, ſaid <hi>Bradſhaw</hi> (ſtanding up) this is the Sentence and Iudgement of the whole Court, at which the Court ſtood up: <hi>Cromwel</hi> and Ireton riſing up, the two formoſt and readieſt in the Court, though they knew themſelves the very hinderers of the ſetiing the peace of the Kingdom, and the chief cauſers of the Kings ruine, in diſſwading him from Treating with the Commiſſioners of ſhoth Kingdoms.</p>
+            <p>The King after Sentence ſtood up vo ſpeak, but <hi>Bradſhaw</hi> told him that after the Sentence he might not ſpeak, neither w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u'd he hear him, but gave command to the Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd to withdraw the Paſſoner: The King ſaid that he might ſpeak after Sentence and then he would have ſpoke, but the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd opened the B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r where they put the King, and <hi>Bradſhaw</hi> reſe to depart, ſo that they ſleighted the Kings words: Where<g ref="char:EOLhyphen"/>upon the King turning himſelf to come forth, ſaid, <hi>If I your King an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot ſuffered to ſpeak for my ſelf, what Juſtice can my People expect to have?</hi>
+            </p>
+            <p>Theſe were the laſt words the King ſpoke in <hi>Weſtminſter-hall,</hi> as the King paſſed from the C urt through the Souldiers, the Souldiers with a loud ſhout tryed, <hi>Execution, Execution,</hi> and with ſuch fierce<g ref="char:EOLhyphen"/>neſs, that I which ſteed neat the King, tren<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bled with fear, leaſt they would have Murdered him in the H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, but it ſéems it was but to fright him, and diſtemper his well-compoſed Spirit: This was the hurry
+<pb n="11" facs="tcp:151144:6"/>of all about him immediately after the Sentence: <hi>Is the King condem<g ref="char:EOLhyphen"/>ned? What? Is he now going to his Execution? Is it to night or the morrow morning?</hi> Thus they tryed in his Ears on purpoſe to am<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> him, ſome they ſay, reviled, and mocked him, and others with indigna<g ref="char:EOLhyphen"/>tion ſpit upon him, yet was he not diſturbed in his Soul ſo much as to tread one foot awry, or to ſhow the leaſt diſcontent in his Majeſtick and Royal countenance.</p>
+            <p>He was carried from Sir <hi>Robert Cottons</hi> to St. <hi>James,</hi> where he had the liberty of his Chaplain allowed him, who ſpent that laſt Sab<g ref="char:EOLhyphen"/>bath of his on Earth with much comfort and joy together, all that Holy day he ſpent in Holy Meditations, as Hearing, Reading, and Praying, and trimming up his Celeſtial Spouſe (his Soul) for her Celeſtial Bridegroom<g ref="char:punc">▪</g> which he every hour looked for.</p>
+            <p>The Lords Day being done, he ſpent the moſt part of the long night in Devout Prayer, never putting of his cloaths: a worthy Lady told me, that a Souldier which Giarded him, by ſtealth, heard the King a<g ref="char:EOLhyphen"/>lone at Prayer, who prayed ſo ſweetly, ſo fervently, and ſo charitably, that he thought if ever any King had communion with God on Earth, it was he, he did confeſs his ſin and his Families and Peoples in with much debaſedneſs of Spirit, and prayed heartily for Remiſſion, and for thoſe his Perſecutors pardon and for eſtabliſhing of the true Prote<g ref="char:EOLhyphen"/>ſtant Religion: After this manner ſpent he the night.</p>
+            <p>The next morning being very deſirous to ſee his Children that were in <hi>England,</hi> with much ado they were permitted to go to viſit their im<g ref="char:EOLhyphen"/>priſoned and condemned Father.</p>
+            <p>At this time they <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> through the Kingdom in a Pamphlet, that the Presbyterian Miniſters ſuch as Mr. <hi>Calamy,</hi> Mr. <hi>Caſe,</hi> Mr. <hi>Love,</hi> Mr. <hi>Jenkins, &amp;c.</hi> that they were content to have the King Tryed, Condemed, and Depoſed; but not Beheaded: <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I ſuppoſe, that ſame malicious knaves or ignorant fools brought <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his for <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaying, <hi>That the Presbyterians brought his Neck to the Block, and the Independents cut it off;</hi> but the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> did that <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> themſelves, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Hugh Peters</hi>'s Sermon of <hi>binding Kings in chains and Nobles in Fetters of Iron,</hi> and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Imipriſoning. Trying, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and going about to Behead the King.</p>
+            <p>The Lady <hi>Elizabeth</hi> and the Duke of <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oceſter</hi> being come to weep in their condemned Royal Fathers B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſome, the King with pleaſant countenance and voice bleſſed them, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſpeaking thus to the Lady <hi>Elizabeth.</hi>
+            </p>
+            <pb n="12" facs="tcp:151144:7"/>
+            <p>
+               <hi>SWeet heart, I am glad you are come; for though I have not time to ſay m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to you, yet I have that to ſay to you which I have not to ſay, or leave in writing with another for you; for ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is their cruelty toward me, that they will not permit me to write to you, nor any of my children.</hi> The King ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing the ſorrowful young L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy weep moſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd torment her ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grief he out of pity to her<g ref="char:punc">▪</g> ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: <hi>I pray thee do n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t grieve nor torment thy ſelf for me, for though I ſhall be put to Death to morrow, yet the Death that I ſhall dye will be a Glorio is Death; for I dye for the Lawes of my Kingdome and the Libertie; of my People, and the maintainance of the true Proteſtant Religion, in which I would have you well grounded, and therefore admoniſh you to read Biſhop <hi>Andrews</hi> Sermons, <hi>Hookers</hi> Eccleſiaſticall Policie, and Biſhop <hi>Lands</hi> book againſt <hi>Fiſher,</hi> which will ground you againſt Popery.</hi>
+            </p>
+            <p>
+               <hi>I have this day forgiven all mine Enemies, and I hope God will forgive them, and I do command you, and all the reſt of your Bro<g ref="char:EOLhyphen"/>thers and Siſters to forgive them; and tell my dear Wife your Mo<g ref="char:EOLhyphen"/>ther, that my thoughts have never ſtraied from her, but ſhe hath al<g ref="char:EOLhyphen"/>wayes been next my heart, and my love ſhall be the ſame to her to my laſt minute: I charge you and your Brother to be obedient to her, and be ſure to love your Brothers and Siſters, to whom I would have you ſend my Bleſſing, with commendation to all my Friends: And my dear Daughter, God Almighty preſerve thee from all my Enemies, whom I charge you to forgive, but never to truſt them; for they have been moſt falſe to me, and falſe to the Parliament that intruſted them, and I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear to their own Souls; and now thou art parting with thy Father (my dear Daughter) do not goe away grieving from me, for though I dye, I ſhall dye a Martyr, and I doubt not, but the Lord will ſettle my Son in my Throne, for which I am this day thrown, and and you my children will be more happy, then you could expected to have been if I had lived: All this and much more he ſaid to the La<g ref="char:EOLhyphen"/>dy <hi>Elizabeth,</hi> inſtructing the young Duke his Son, to learn betimes to ſerve and fear the Lord, and he would provide for him: It would have drawn water out of a Rocke-heart, to have ſeen the ſad parting of this Solitary, Condemned, Impriſoned King, and his dear Chil<g ref="char:EOLhyphen"/>dren.</hi>
+            </p>
+            <p>The poor Lady went away wéeping, not onely Tears, but Blood, and Blood in great abundance, ſo that the Phyſitians concluded, that ſhe would bléed to Death.</p>
+            <p>The King ſadly parting with his beloved Children (for they parted
+<pb n="13" facs="tcp:151144:7"/>never to fée each other more). he forth with betook himſelf to private o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, knowing the time of his departing out of this World drew on a<g ref="char:EOLhyphen"/>pace, not having many hours more to live; this night alſo he ſpent its trimming up his Lamp for to meet his Bridegroom, who was near at hand, not putting off his cloaths all night; he altogether neglected his body for the good of his precious ſoul.</p>
+            <p>The next morning, as if the day of Iudgement had béen co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue, they a<g ref="char:EOLhyphen"/>waked him with a Trumpet, not to tell him the Reſurrection was come, but to raiſe him up to goe to his Grave this ſound was to him the leſs terrible, by how much the leſs it was unerepected, for he was quickly ready: This was on <hi>Tueſday</hi> the 30th. of <hi>January 1648.</hi>
+            </p>
+            <p>About Ten of the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ock, with a party of <hi>500</hi> S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>diers before the King, add a party of <hi>500</hi> behind him, and about <hi>30</hi> Partizans on each ſide him, he was Guarded through St. <hi>James</hi> Park to <hi>White-hall,</hi> Dr<g ref="char:punc">▪</g> 
+               <hi>Juxon</hi> being allowed to goe alonge with him as his Chap<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in.</p>
+            <p>The King had prepared himſelf for the Sacrament, reſolving to eat a ſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tual Brookfall before he took his long jeuruey to the ſpiricual <hi>Je<g ref="char:EOLhyphen"/>ruſalem.</hi>
+            </p>
+            <p>Dr. <hi>Juxon</hi> at the Sacrament following the Proteſtant Liturcy of <hi>England,</hi> t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o the Leſſons appointed for that day, the ſecond Leſſen b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing <hi>Matth. 27.</hi> Providence ſo ordeving it that Chriſt would not onely give himſelf ſlain (to this Royal Martyr of his) in the Sacrament for his ſupport in his ſufferings but lay before his eyes the pattern of his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer ſafferings for him to follow.</p>
+            <p>The King asked, whether that were the Leſſon appointed for the day, the Biſhe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> told him it was, where the King exceedingly refo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced, as ſeeing the glorious hand of his <hi>Saviour</hi> ſpeaking as it were from Heaven to him, and reſolving that doubt which he had in him, whether he had beſs refuſe to ſubmit to the puniſhment as he did not ſubmit to the guilt, he there prieci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing how his innocent <hi>Saviour</hi> ſubmitted to the puniſhment, who had no guile faund in him, reſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved (being a ſin<g ref="char:EOLhyphen"/>ner) to ſubmit willingly to the Hand of God, and to lay down his life without ſturg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, as his bleſſed Lord and <hi>Saviour</hi> had left him a pat<g ref="char:EOLhyphen"/>ter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: With much devotion, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy, and ſpiritual li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elineſs, he was obſer<g ref="char:EOLhyphen"/>ved to receive the <hi>Sacrament,</hi> after which there was a ſudden meſſags same unto him, as it on purpoſe to diſturb him, that he man ſpéedily par<g ref="char:EOLhyphen"/>pace himſelf for the Glaſs was turned and he had but that hour near to live, which meſſage, was as an Arrow that through the heart of the Bi<g ref="char:EOLhyphen"/>ſhop, and the riſh that loved the King: whereupon the King ſaid to the Biſhop, <hi>My Lord, do not you pity me, well, after one hour is expired, I ſhall pity you, and all the People in my Kingdom.</hi>
+            </p>
+            <pb n="14" facs="tcp:151144:8"/>
+            <p>As he came through the Banqueting, houſe, there they had placêd his C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffin in his Eye, purpoſely to deject him, and ſtrike him with ter<g ref="char:EOLhyphen"/>rour when he came on the Scaffold and ſaw the Block, the Pullies, and Deviſes, which were made to bring him, as an Ore to the ſlaugh<g ref="char:EOLhyphen"/>ter, and to force him to the Block, in caſe he reſuſed to loy nown his Royal Neck there on: He lifted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p his Eyes towores Heaven and ſaid, <hi>I am a Sinner, and willing to ſubmit my ſelf to the puniſhing Hand of GOD; but not to the Unjuſt Sentence of Men.</hi>
+            </p>
+            <p>He made a Sp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ech up<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>old, out of which I ſhall onely re<g ref="char:EOLhyphen"/>cite this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſſage, becauſe I will not be tedious.</p>
+            <p>The Peoples I therty, He proves conſiſts in Government, for the maintainance of their Government, he ſaith, he was condemned.</p>
+            <p>
+               <hi>Sirs, ſaith he, it was for this that now I am come here; If I would have given way to an Aroitrary way, for to have all Lawes changed according to the power of the Sword, I needed not to have come hi<g ref="char:EOLhyphen"/>ther; and therefore I tell you, and pray God it be not laid to your charge, That I am the <hi>Martyr</hi> of the People.</hi>
+            </p>
+            <p>After his Speech, he called for his Night ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and putting it on, prepared himſelf to ſuff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r that puniſhment his Enemies had Iudged him unto. The Sun ſhined that morning very clear without intermiſ<g ref="char:EOLhyphen"/>ſion, until the King came to the F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tai Block, and lay down, and then at that inſtant a Dark thick Cloud covered the face of the S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, which for a time ſo conſtimeed, inſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, that a Gentle woman <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anding br<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e to behold this Dreadful Tra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edy; cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed out, <hi>Look, look, Sir, the Sun is aſhamed, and hideth his Face, as loathing to ſee this Florrid Mur<g ref="char:EOLhyphen"/>der!</hi> immediately upon her words the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atal Blow was given, ſuch a one againſt Chriſtian Religion, as all the D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vtis in Hell could not ſtrike at once, ſo dreadfall a peruicious blow ag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in.</p>
+            <p>This Bloddy ſtroke being ſtruck upon the Royal Neck of the onely Proteſtant King in the World, it ſéemed rather to fall upon the Peo<g ref="char:EOLhyphen"/>ple th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the King; for ſo ſoon as it fell upon his Neck, the People cry<g ref="char:EOLhyphen"/>ed o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with ſo grievous and doleful a cry. as I n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vec heard before; it raiſed a flood of teares, which ſpr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng out of the Eyes of all that had Ears to hear and Hearts to underſtand the Treaſon, from the Noble to the Beggar; I obſerved that day, was a wéeping day; I ſearce ſaw a Shop of the thouſands I beheld that day, wherein I ſaw not wéeping Eyes, with Hands wringing each other to expreſs the anguiſh of their Hearts.</p>
+            <p>The Presbyterian Congregations in the City of <hi>London</hi> for the moſt part aſſembled together; all, or the moſt part of the night before the
+<pb n="15" facs="tcp:151144:8"/>King was to ſuffer to pray for him, if it were the will of God to pray him out of trouble, however to prepare him for his ſufferings, and to carry him through them with the comforts of the Holy Ghoſt: Never did King goe to Heaven in a greater Cloud of Prayers and Tears, then this King; and never was their greater mourning for the loſs of any King then this: I think there was ſcarce a Proteſtant in the World, to whom the true Relation came, but ſhed tears for him; I have tal<g ref="char:EOLhyphen"/>ked with Travellers who can tell more then this, how much the King was mourned for, eſpecially when they ſaw his Book, which is Tran<g ref="char:EOLhyphen"/>ſlated into all Languages almoſt, and ſent into every Countrey.</p>
+            <p>At this time there was a conſultation held amongſt the Grandees of the Sword-men, concerning a Maſſacre <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the cheif Royaliſts and Preſ<g ref="char:EOLhyphen"/>byterians, both Noble, Gentrey, and Citizens, of the chief of whom they had a Liſt, as alſo ſome in Priſon: This was (as I was by ſe<g ref="char:EOLhyphen"/>veral hands informed) carried in the Affirmative, until one (more politick then the reſt) roſe up, and told them. It was the ready way to have their own Throats cut; ſince now they had the Army at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the Army divided into Levellers, and others, which Level<g ref="char:EOLhyphen"/>lers were falling off more and more, and therefore this Blade, like <hi>A<g ref="char:EOLhyphen"/>chitophel,</hi> gave Councel wiſely, faying, That they had time enough to deal with them hereafter, without the running of ſo deſperate a ha<g ref="char:EOLhyphen"/>zard.</p>
+            <p>This was the ſtopping of that Bloody Massacre and there was good ground for it; for <hi>Lilburn, Osburn, Overton, Prince,</hi> and <hi>Walwin,</hi> perceiving themſelves cheated of their deſign, and that <hi>Cromwel</hi> called them in onely to keep them quiet, not to yield to any of their demands; and perceiving that <hi>Cromwels</hi> deſigns were to bring old <hi>England</hi> into the <hi>Spanniſh</hi> Mode, <hi>that is,</hi> to ſet up a Council of State to manage the Affairs of State, and an Inquiſition, or High Court of Iuſtice, to Iudge in matters Criminal; <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> into what a Tyrannical road he was got, like open-hearted men did declare to the World, That the way was Tyrannical, and againſt the Liberty of the People, and did proteſt againſt <hi>Cromwel</hi> as a deceitful Seducer, and a ſubtil Hypocri<g ref="char:EOLhyphen"/>tical Traytor.</p>
+            <p>Theſe Libellers (as they baſly called them) did lie as a croſs Bar in the Popiſh Factions way, which hinored from wedding the Blood of the Proteſtants, as they intended.</p>
+            <p>However they ſhewed their intentions<g ref="char:punc">▪</g> for within a Moneth we had News from ſeveral parts of ſame Miniſters that were ſhot for praying <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>r the King, and Preaching for the Covenant.</p>
+            <pb n="16" facs="tcp:151144:9"/>
+            <p>Or, <hi>Calton,</hi> a Pious, Gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Miniſter of <hi>London,</hi> was within a Main ſo after the King was out off, appreben <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aytor, and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>yt into. Priſon, for praimor th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t God would <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rifore the late Kings Son to his I<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt Right; after they had out off the Parter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King, they pro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ded to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t off the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>at Proteſtant Pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s it of <hi>Europe</hi> a of peclaily thoſe that had op<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſen it any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heretofore the Pop<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion: They had three inſure M<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es of the Land <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>old, Du<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>milton,</hi> the Earl of <hi>Holland,</hi> into the Lord <hi>Capel;</hi> theſe three who were ſincere Proteſtants and protect<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of the Dri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odot Government, and Lawes of the Kingdom theſe had their Heads chopped eſt in one was upon one Block <hi>Hamilton</hi> in <hi>Holland</hi> they owen a grut<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> too <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. o<g ref="char:EOLhyphen"/>ver ſince they broke the Poor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſion, in making up the breach <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the two Nationa in <hi>1639</hi> no being ſhite <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nents of procuri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent to the over thr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King of the Po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ction, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>About this time thoſe of the Lower Houſe, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Telves the Supreain Authority of the Nation, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as a Frée State, ſent to the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>London</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> about a R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>conciliation and A<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> betwixt, them <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they would not take away the Church Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but father <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>greaſe them.</p>
+            <p>The M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſter of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. That before they knew in what, and how far they would require them to comply with them, they would give no poſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> anſwer.</p>
+            <p>At this thur <hi>O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erton, Prince, W<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lvin, no Lilburn,</hi> who were of the Levelling party, were ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> one a our of <hi>Cromwels</hi> a<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ctions ſince I had no liſe of them before he called them waints and now he call<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them Divels, and Giddy headed Fellowe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r: they ope<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly Declared againſt the preſent Po<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llei<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, Tyran<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ical, and coutrary to the Liberty of the People of <hi>England;</hi> for which they were I <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>priſoned in the Tower, which much <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>laged <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> party, whereby Provideuce ſo ordeced it that they laid over to the World in Hele Printed beeks, the ſecret under hand Plotting of <hi>Cromwel</hi> and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eron with the Popiſh Faction wai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Popiſh P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irty, to prome<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them<g ref="char:EOLhyphen"/>ſeives to the Crown.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151144:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
